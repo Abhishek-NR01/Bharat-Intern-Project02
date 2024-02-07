@@ -5,7 +5,7 @@ hr{
     border: none;
 }
 section{
-    background-image: url('../Bharat_Intern_P02/Netflix_bg_img.png') ;
+    background-image: url('./Netflix_bg_img.png') ;
     height: 800px;
 }
 body{
